@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/etc/lightdm/lightdm.conf.d'
+let g:netrw_dirhist_2='/home/danko/uni/time-series-intro/.git'
+let g:netrw_dirhist_3='/home/danko/uni/ai/homework/voting-records'
+let g:netrw_dirhist_4='/usr/local/lib/python3.5/dist-packages'
+let g:netrw_dirhist_5='/home/danko/temp'
+let g:netrw_dirhist_6='/home/danko/uni/ai/project/tensorflow_vgg'
+let g:netrw_dirhist_7='/opt/lampp/htdocs/keystroke-biometrics/files'
+let g:netrw_dirhist_8='/home/danko/uni/ai/project/tensorflow_vgg'
